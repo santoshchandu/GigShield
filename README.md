@@ -245,10 +245,3 @@ gigshield/
 
 **Team Name**: Apex Innovators
 **Hackathon**: Guidewire DEVTrails 2026
-
----
-
-## Links
-- 🎥 https://youtube.com/shorts/B3NbgCR6wC0
-- 🌐 Live Demo: *[To be added]*
-- 📊 Figma Wireframes: *[To be added]*

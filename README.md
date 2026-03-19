@@ -249,6 +249,6 @@ gigshield/
 ---
 
 ## Links
-- 🎥 Demo Video (Phase 1): *[To be added]*
+- 🎥 https://youtube.com/shorts/B3NbgCR6wC0
 - 🌐 Live Demo: *[To be added]*
 - 📊 Figma Wireframes: *[To be added]*

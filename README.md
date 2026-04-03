@@ -240,7 +240,10 @@ gigshield/
 - [ ] 5-minute demo video
 
 ---
-
+## Links
+- 🎥 Demo Video (Phase 1): *[To be added]*
+- 🎥 https://youtube.com/shorts/B3NbgCR6wC0
+- 🌐 Live Demo: https://gig-shield-mu.vercel.app/
 ## 👥 Team
 
 **Team Name**: Apex Innovators
